@@ -142,4 +142,4 @@ Machine Learning & Data Science Enthusiast
 
 ---
 
-⭐ If you found this project helpful, don't forget to star this repository.
+If you found this project helpful, don't forget to star this repository.
